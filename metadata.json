@@ -1,0 +1,6 @@
+{
+  "name": "Talent IQ Market Intelligence Briefing",
+  "description": "Executive 1-page talent market intelligence briefing designed for high-impact LinkedIn sharing and hiring strategy reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
